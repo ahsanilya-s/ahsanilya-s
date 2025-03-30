@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahsanilya-s
+- 👋 Hi, I’m Ahsan Ilyas.
 - 👀 I’m interested in Tech.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on internships, communities, hackathons, competitions, etc.
